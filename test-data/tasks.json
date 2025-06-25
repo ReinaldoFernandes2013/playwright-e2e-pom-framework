@@ -1,0 +1,14 @@
+{
+  "task1": {
+    "title": "Learn Playwright",
+    "description": "Read the documentation and watch tutorials."
+  },
+  "task2": {
+    "title": "Build Automation Project",
+    "description": "Create a project with Page Object Model and CI/CD."
+  },
+  "task3": {
+    "title": "Run Playwright tests",
+    "description": "Execute the tests and check the report."
+  }
+}
