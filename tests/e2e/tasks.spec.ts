@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import { HomePage } from '../../page-objects/HomePage'; // <<< CORREÇÃO AQUI: '=>' MUDADO PARA 'FROM'
+import { HomePage } from '../../page-objects/HomePage'; 
 import { LoginPage } from '../../page-objects/LoginPage';
 import * as tasksData from '../../test-data/tasks.json';
 import * as users from '../../test-data/users.json';
